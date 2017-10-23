@@ -1,0 +1,62 @@
+#pycharm folder
+.idea/
+
+#sqlite3 database
+db.sqlite3
+
+#files
+media/
+
+# byte-compiled / optimized / dll media
+__pycache__/
+*.py[cod]
+
+# c extensions
+*.so
+
+# distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# translations
+*.mo
+
+# mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# rope
+.ropeproject
+
+# django stuff:
+*.log
+*.pot
+
+# sphinx documentation
+docs/_build/
+
+# vs code
+.vscode/
